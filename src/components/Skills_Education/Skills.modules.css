@@ -1,0 +1,9 @@
+.container2 .slick-slide {
+  transform: scale(0.5);
+  transition: transform 0.5s;
+  width: auto;
+}
+
+.container2 .slick-slider {
+  width: 97%;
+}
